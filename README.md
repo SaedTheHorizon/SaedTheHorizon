@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaedTheHorizon
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning programmation
-- 💞️ I’m looking to collaborate on this
+Graphic Designer
+Digital Designer
+UI/UX Designer
 
 <!---
 SaedTheHorizon/SaedTheHorizon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
